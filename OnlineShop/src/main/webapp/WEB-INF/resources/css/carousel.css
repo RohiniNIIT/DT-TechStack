@@ -1,0 +1,42 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 15px;
+  color: #5a5a5a;
+  background: whitesmoke;
+}
+
+   /* Remove the navbar's default rounded borders and increase the bottom margin */
+    .navbar {
+	background-color:black;
+      margin-bottom: 5px;
+      border-radius: 10px;
+    }
+    
+    /* Remove the well's default bottom margin */
+     .well {
+	 background-color: orange;
+      margin-bottom: 0%;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: orange;
+      padding: 70px;
+    }
+	
+	 .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+  	background-color:black;
+  
+  text-align:base
+  padding:100px,100px;
+     width:70%;
+      margin: 0 auto;
+  }
+  
+
+
+
